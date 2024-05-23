@@ -1,7 +1,7 @@
 
 Algorithme RechercheLineaire
 
-    RechercheLineaire(tableau: entier, élément: entier): entier
+    Fonction RechercheLineaire(tableau: entier, élément: entier): entier
         Variables:
             i : entier
         Début

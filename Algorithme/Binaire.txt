@@ -1,6 +1,6 @@
 Algorithme RechercheBinaire
 
-    RechercheBinaire(tableau: liste triée d'entiers, élément: entier): entier
+    Fonction RechercheBinaire(tableau: liste triée d'entiers, élément: entier): entier
         Variables:
             bas, milieu, haut : entier
         Début
