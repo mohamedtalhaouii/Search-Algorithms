@@ -21,6 +21,9 @@
 - Efficace pour de grandes listes, réduisant considérablement le nombre d'itérations nécessaires pour trouver l'élément recherché.
 - Plus complexe à mettre en œuvre que la recherche linéaire, mais offre de meilleures performances dans le cas de grandes listes triées.
 
+<hr>
+
+![Sequential-Search](https://github.com/mohamedtalhaouii/Search-Algorithms/assets/144726758/5dadd2c4-2e05-4f9c-bebc-fb3e97cf6d2b)
 
 <hr>
 <h3 align="center"> 🧑🏻‍💻 | Made By : <a href="https://github.com/mohamedtalhaouii" target="_blank">Mohamed Talhaoui</a></h3>
