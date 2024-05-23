@@ -24,8 +24,8 @@
 <hr>
 <h2 align="center">
      Voici Une Visualisation de Ces Recherches : 
-</h1>
-<h2 align="center">
+</h2>
+<h3 align="center">
   
   ![Sequential-Search](https://github.com/mohamedtalhaouii/Search-Algorithms/assets/144726758/1abf79f0-9965-43c7-9f2d-38e86bb8d30f)
 
