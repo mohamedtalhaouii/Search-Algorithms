@@ -1,1 +1,25 @@
-Soon...
+Algorithme RechercheBinaire
+
+    RechercheBinaire(tableau: liste triée d'entiers, élément: entier): entier
+        Variables:
+            bas, milieu, haut : entier
+        Début
+            bas <- 0
+            haut <- longueur(tableau) - 1
+
+            Tant que bas <= haut faire
+                milieu <- bas + (haut - bas) // 2
+
+                Si tableau[milieu] = élément alors
+                    retourner milieu
+                Fin Si
+
+                Si tableau[milieu] < élément alors
+                    bas <- milieu + 1
+                Sinon
+                    haut <- milieu - 1
+                Fin Si
+            Fin Tant Que
+
+            retourner -1
+        Fin

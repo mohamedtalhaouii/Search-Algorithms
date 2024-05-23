@@ -1,0 +1,15 @@
+
+Algorithme RechercheLineaire
+
+    RechercheLineaire(tableau: entier, élément: entier): entier
+        Variables:
+            i : entier
+        Début
+            Pour i allant de 0 à longueur(tableau) - 1 faire
+                Si tableau[i] = élément alors
+                    retourner i 
+                Fin Si
+            Fin Pour
+            retourner -1 
+        Fin
+
