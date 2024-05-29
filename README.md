@@ -8,14 +8,14 @@
 **Recherche linéaire (Linear Search) :** 
 - Parcourt séquentiellement chaque élément de la liste.
 - Fonctionne sur des listes triées ou non triées.
-- Complexité temporelle linéaire, O(n), où n est la taille de la liste.
+- Complexité temporelle linéaire, $`O(n)`$, où n est la taille de la liste.
 - Simple et facile à mettre en œuvre.
 - Efficace pour de petites listes ou des cas où la position de l'élément est inconnue.
 
 **Recherche binaire (Binary Search) :** 
 - Fonctionne sur des listes triées.
 - Divise récursivement la liste en deux parties et compare avec l'élément médian.
-- Complexité temporelle logarithmique, O(log n), où n est la taille de la liste.
+- Complexité temporelle logarithmique, $`O(\log n)`$, où n est la taille de la liste.
 - Efficace pour de grandes listes, réduisant considérablement le nombre d'itérations nécessaires pour trouver l'élément recherché.
 - Plus complexe à mettre en œuvre que la recherche linéaire, mais offre de meilleures performances dans le cas de grandes listes triées.
 
