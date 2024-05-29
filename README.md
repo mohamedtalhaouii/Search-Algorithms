@@ -1,6 +1,6 @@
 <h1 align="center">Algorithmes de Recherche</h1>
 
-##### Ce repository présente les principaux algorithmes de recherche implémentés dans divers langages de programmation. Essentiel pour les tâches de récupération de données, il constitue une ressource précieuse pour les débutants comme pour les experts souhaitant comparer différentes techniques de recherche.
+Ce repository présente les principaux algorithmes de recherche implémentés dans divers langages de programmation. Essentiel pour les tâches de récupération de données, il constitue une ressource précieuse pour les débutants comme pour les experts souhaitant comparer différentes techniques de recherche.
 
 <br>![Search Algorithms](https://github.com/mohamedtalhaouii/Search-Algorithms/assets/144726758/5b6216ab-d5e2-468a-a27a-360ddf4ad7b4)
 
